@@ -1,5 +1,5 @@
-Git - A free version contorl system
-a tool that helps to track changes in code
+#Git - A free version contorl system
+a tool that helps ₹to track changes in code
 
 git commands:
 
@@ -41,7 +41,7 @@ Add - adds new or changed files in your working directory to the Git staging are
 git add <- file name ->
 
 To select all files-
-git add. 
+git add . 
 
 Commit - it is the record of change
 git commit -m "some message"
