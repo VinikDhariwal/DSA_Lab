@@ -1,5 +1,5 @@
-#Git - A free version contorl system
-a tool that helps ₹to track changes in code
+Git - A free version contorl system
+a tool that helps to track changes in code
 
 git commands:
 
