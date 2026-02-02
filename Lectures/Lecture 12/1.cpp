@@ -18,4 +18,7 @@ int main(){
         a=b;
         b=t;
     }
+    cout<<a<<endl;
+    cout<<gcd(a,b);
+    return 0;
 }
